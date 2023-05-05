@@ -1,6 +1,6 @@
 # StickerSmash App
 
-Learning mobile development via React-native with [Expo](https://docs.expo.dev/), Learning using the tutorial on expo docs.
+Learning mobile development via React-native with [Expo](https://docs.expo.dev/), Learning using the tutorial on [Expo documentation](https://docs.expo.dev/tutorial/).
 
 ## Table of contents
 
@@ -8,8 +8,7 @@ Learning mobile development via React-native with [Expo](https://docs.expo.dev/)
   - [The challenge](#the-challenge)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I'm learning](#what-i'm-learning)
-
+  - [What I Learned](#what-i-learned)
 
 ## Overview
 
@@ -20,7 +19,6 @@ Users should be able to:
 - Use each platform's system UI to select an image from the media library
 - Use touch gestures to interact with a sticker
 
-
 ## My process
 
 ### Built with
@@ -29,13 +27,12 @@ Users should be able to:
 - Expo
 - Flexbox
 
-### What I'm Learning
+### What I Learned
 
-The Expo docs teaches the following:
 - Create an Expo App
 - Break down the app layout and implement it with flexbox
 - Use each platform's system UI to select an image from the media library
-- Create a sticker modal using the <Modal> and <FlatList> components from React Native
+- Create a sticker modal using the `<Modal>` and `<FlatList>` components from React Native
 - Add touch gestures to interact with a sticker
 - Use third-party libraries to capture a screenshot and save it to the disk
 - Handle platform differences between Android, iOS, and web
